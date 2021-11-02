@@ -1,4 +1,28 @@
+.nav{
+display: block;
+padding: 8px;
+}
+
+.name{
+    background-color: rgb(187, 176, 176);
+}
+
+img{
+    width: 900px;
+}
+
+.About{
+    background-color: rgb(191, 197, 197);
+}
+
+h2{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
 .Projects{
-    background-color: aqua;
-    
+    background-color: rgb(198, 226, 226);
 }
